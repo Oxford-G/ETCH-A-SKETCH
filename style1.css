@@ -1,6 +1,6 @@
 #container {
     float: right;
-    background-color: tomato;
+    background-color: peru;
     width: 100%;
     text-align: center;
   }
@@ -48,12 +48,12 @@
   }
   
   .sound {
-    background-color: black;
+    background-color: yellowgreen;
     border: 1px solid white;
   }
   
   .color {
-    background-color: rgb(89, 192, 29);
+    background-color: blueviolet;
     border: 1px solid black;
   }
   
